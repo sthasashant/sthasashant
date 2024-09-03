@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## Hey there! I'm Sashant
 
-🎓 Computer Engineer.
+🎓 Sofware Engineer.
 
 ### 🛠 &nbsp;Tech Stack
 
